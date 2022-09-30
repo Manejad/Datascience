@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marjan Nejad
 - 👀 I’m interested in Medical Physics and Computational Biophysics projects  
-- 🌱 I’m currently learning Datascience and Machin learning
+- 🌱 I’m currently learning Datascience and Machine learning
 - 💞️ I’m looking to collaborate on Medical Physics related projects.
 - 📫 How to reach me manejad@outlook.de
 
